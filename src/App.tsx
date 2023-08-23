@@ -10,8 +10,8 @@ function App() {
     return (
         <div className="App">
             <Box>
-                {/*<StyledBtn color="green" fontSize={"100px"}>1233123</StyledBtn>*/}
-                {/*<StyledBtn color="blue" fontSize={"40px"}>Hello</StyledBtn>*/}
+                <StyledBtn color="green" fontSize={"100px"}>1233123</StyledBtn>
+                <StyledBtn color="blue" fontSize={"40px"}>Hello</StyledBtn>
 
                 <StyledBtn color={myTheme.colors.primary} active btnType={"primary"}>Hello</StyledBtn>
                 <StyledBtn color={myTheme.colors.primary} active btnType={"primary"}>Hello</StyledBtn>
