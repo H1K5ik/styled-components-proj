@@ -18,6 +18,7 @@ function App() {
                 <StyledBtn color={myTheme.colors.secondary} btnType={"outlined"}>Hello</StyledBtn>
 
                 <StyledBtn color={myTheme.colors.secondary} btnType={"outlined"}>Hello</StyledBtn>
+                <StyledBtn color={myTheme.colors.secondary} btnType={"outlined"}>Hello</StyledBtn>
 
             </Box>
         </div>
